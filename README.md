@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-repo-url/icon.png" alt="Logo" width="80" height="80">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Icon" width="80" height="80">
 </p>
 
 <h1 align="center">Competitive Programming Solutions 🏆</h1>
