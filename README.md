@@ -40,11 +40,22 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 
 ## 🌟 About Me
 
-I am passionate about algorithms and data structures. You can find more about me and my work on:
-- [Personal Website](https://yourwebsite.com)
-- [LinkedIn] https://www.linkedin.com/in/khaled-hasan-milu/
-- Email: kh.milu338@gmail.com
+I am passionate about algorithms and data structures. You can find more about me and my work on.
+<!-- Connect -->
+<h2 align="center">🤝 Connect</h2>
+
+<p align="center">Connect with me for any questions, collaborations, or feedback:</p>
+
+<p align="center">
+  <a href="kh.milu338@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/khaled-hasan-milu/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white">
+  </a>
+</p>
 
 ---
 
-<p align="center">Happy Coding! 🚀</p>
+<p align="center">Explore, learn, and conquer the world of competitive programming with Codeforces! Happy coding! 🌟</p>
+
