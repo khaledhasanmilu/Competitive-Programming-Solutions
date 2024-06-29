@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Icon" width="80" height="80">
+  <img src="https://example.com/codeforces-icon.png" alt="Codeforces Icon" width="40" height="40">
+  <img src="https://example.com/codechef-icon.png" alt="CodeChef Icon" width="40" height="40">
+  <img src="https://example.com/uri-icon.png" alt="URI Icon" width="40" height="40">
+  <img src="https://example.com/leetcode-icon.png" alt="LeetCode Icon" width="40" height="40">
 </p>
 
 <h1 align="center">Competitive Programming Solutions 🏆</h1>
@@ -7,6 +10,8 @@
 <p align="center">
   Welcome to my repository of competitive programming solutions! Here you'll find my solutions to problems from various online judges like Codeforces, CodeChef, URI, LeetCode, and more.
 </p>
+
+
 
 ## 📂 Structure
 
