@@ -1,10 +1,3 @@
-<p align="center">
-  <img src="https://assets.codeforces.com/s/1626768503/images/codeforces-logo-with-telegram.png" alt="Codeforces Icon" width="80" height="80">
-  <img src="https://i.imgur.com/J6yq8cL.png" alt="CodeChef Icon" width="80" height="80">
-  <img src="https://dka575ofm4ao0.cloudfront.net/pages-transactional_logos/retina/9486/primary.png?1606858884" alt="URI (Beecrowd) Icon" width="80" height="80">
-  <img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" alt="LeetCode Icon" width="80" height="80">
-</p>
-
 <h1 align="center">Competitive Programming Solutions 🏆</h1>
 
 <p align="center">
