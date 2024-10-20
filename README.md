@@ -19,7 +19,7 @@ Each platform directory contains subdirectories for specific problems or contest
 ## 🚀 Why This Repository?
 
 I created this repository to:
-- Share my problem-solving journey and solutions with the community.
+- Share my problem-solving journey and solutions with  the community.
 - Showcase my approach to solving various types of problems.
 - Provide a resource for others learning or practicing competitive programming.
   
