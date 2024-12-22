@@ -1,25 +1,41 @@
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
+
 int main()
 {
-   long long n;
-   cin>>n;
-   long long int arr[n];
-   for (int i = 0; i < n; i++)
-   {
-    cin>>arr[i];
-   }
-   sort(arr,arr+n);
-   for (int i = 0; i < n; i++)
-   {
-    cout<<arr[i]<<" ";
-   }
-   cout<<endl;
-   sort(arr,arr+n,greater<long long>());
-      for (int i = 0; i < n; i++)
-   {
-    cout<<arr[i]<<" ";
-   }
+    int t;
+    cin >> t; 
 
- return 0;
+    while (t--)
+    {
+        int n;
+        cin >> n; 
+        vector<int> arr(n);
+        
+        for (int i = 0; i < n; i++)
+        {
+            cin >> arr[i];
+        }
+
+        bool is_sorted = true;
+        for (int i = 0; i < n - 1; i++) 
+        {
+            if (arr[i] > arr[i + 1])
+            {
+                is_sorted = false;
+                break;
+            }
+        }
+
+        if (is_sorted)
+        {
+            cout << "YES" << endl; 
+        }
+        else
+        {
+            cout << "NO" << endl; 
+        }
+    }
+
+    return 0;
 }
